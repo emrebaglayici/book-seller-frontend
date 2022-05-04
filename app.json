@@ -1,5 +1,5 @@
 {
-  "name": "sha-book-seller-ui",
+  "name": "angular-book-seller-ui",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
